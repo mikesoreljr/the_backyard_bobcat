@@ -1,9 +1,15 @@
 body {
-  font-family: 'Share Tech Mono', monospace;
-  background-color: #0d1b2a;
-  color: #e0f7fa;
-  margin: 0;
-  padding: 0;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f4f4f4;
+  color: #222;
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #00529b;
 }
 
 header {
