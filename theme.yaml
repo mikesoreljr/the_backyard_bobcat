@@ -1,0 +1,11 @@
+style:
+  font_family: "'Share Tech Mono', monospace"
+  heading_font: "'Orbitron', sans-serif"
+  primary_color: '#00ccff'        # Neon cyan (HUD highlight)
+  accent_color: '#2e9cca'         # Tactical blue
+  background_color: '#0d1b2a'     # Deep steel blue
+  nav_background: '#1b263b'       # Dark gunmetal
+  nav_text_color: '#e0f7fa'       # Soft HUD white-blue
+  nav_hover_color: '#00ccff'      # Bright MGS HUD blue
+  footer_text_color: '#5c728a'    # Tactical gray
+  content_width: '900px'
